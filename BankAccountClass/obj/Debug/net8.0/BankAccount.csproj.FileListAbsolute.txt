@@ -1,0 +1,7 @@
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\refint\BankAccount.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.pdb

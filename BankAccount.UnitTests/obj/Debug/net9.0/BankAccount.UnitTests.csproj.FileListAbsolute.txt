@@ -1,0 +1,16 @@
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\testhost.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\testhost.exe
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\BankAccount.UnitTests.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\xunit.abstractions.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\xunit.core.dll
+G:\My Drive\elevAlte - Microsoft Learning\SampleApps\APL2007M4BankAccount\BankAccount.UnitTests\bin\Debug\net9.0\xunit.execution.dotnet.dll
